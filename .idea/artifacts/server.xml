@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="server">
+    <output-path>$PROJECT_DIR$/out/artifacts/server</output-path>
+    <root id="archive" name="server.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/src/com/riot" />
+    </root>
+  </artifact>
+</component>
